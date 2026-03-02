@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeepAIColorizer": {
+      "commandName": "Project",
+      "commandLineArgs": "--input old_ships_trondheim_1960s_norway.png"
+    }
+  }
+}

@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Docs/">
+    <File Path="../LICENSE.txt" />
     <File Path="../Readme.md" />
   </Folder>
   <Project Path="DeepAIColorizer.csproj" />

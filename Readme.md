@@ -7,7 +7,7 @@ A console application that colorizes black and white images using the DeepAI Col
 - 🎨 Automatic colorization of grayscale images
 - 🔐 Secure API key management via `.env` file
 - 🚀 Simple command-line interface
-- 📁 Automatic output file naming
+- 📁 Automatic output file naming with timestamps
 - ✨ Progress indicators and colored console output
 
 ## Prerequisites
@@ -19,7 +19,7 @@ A console application that colorizes black and white images using the DeepAI Col
 
 1. Clone or download this repository
 2. Restore NuGet packages:
-````````markdown
+
 # DeepAI Image Colorization CLI 
 
 The executable will be in `bin/Release/net10.0/`
@@ -47,7 +47,7 @@ The executable will be in `bin/Release/net10.0/`
 
 ## License
 
-This project is provided as-is for educational and personal use.
+Standard MIT License. See [LICENSE](License.txt) for details.
 
 ## Credits
 

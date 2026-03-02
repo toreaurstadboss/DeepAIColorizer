@@ -63,3 +63,23 @@ Powered by [DeepAI](https://deepai.org) Colorization API.
 | `--help` | `-h` | No | Display help message |
 
 ## Examples
+
+Run for example with the following flag for an old photograph:
+
+`--input old_ships_trondheim_1960s_norway.png`
+
+Input photo:
+
+![Old Ships Trondheim 1960S Norway](DeepAIColorizer/old_ships_trondheim_1960s_norway.png)
+
+Resulting AI colorized photo:
+
+![Old Ships Trondheim 1960S Norway Colorized 20260302 022057](DeepAIColorizer/old_ships_trondheim_1960s_norway_colorized_20260302_022057.png)
+
+
+## Obtain Deep AI API Key
+
+Go to [https://deepai.org](https://deepai.org)
+
+[Obtain Deep AI API key by creating an account](https://deepai.org/dashboard/images)
+
